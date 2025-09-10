@@ -1,6 +1,6 @@
 # Multi-Port Fractal MIMO Antenna: A Mini Project Report
 
-This repository contains the mini-project report on the design, simulation, and analysis of a **multi-port fractal MIMO antenna** tailored for ultra-wideband (UWB) applications. The project focuses on creating a compact and efficient antenna system with inherent self-decoupling properties, eliminating the need for complex external isolation structures.
+This project report on the design, simulation, and analysis of a **multi-port fractal MIMO antenna** tailored for ultra-wideband (UWB) applications. The project focuses on creating a compact and efficient antenna system with inherent self-decoupling properties, eliminating the need for complex external isolation structures.
 
 ---
 
@@ -63,4 +63,5 @@ The simulation results confirmed the antenna’s superior performance. The `S11`
 The project's design and analysis were informed by various academic papers and journals, which are detailed in the `REFERENCES` section of the report. The foundational concepts and comparative analysis drew from a rich body of work on UWB and MIMO antenna design.
 
 ---
+
 
